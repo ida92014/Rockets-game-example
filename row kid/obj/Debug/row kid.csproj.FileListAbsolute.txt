@@ -1,0 +1,12 @@
+C:\Users\annas\source\repos\row kid\bin\Debug\row kid.exe.config
+C:\Users\annas\source\repos\row kid\bin\Debug\row kid.exe
+C:\Users\annas\source\repos\row kid\bin\Debug\row kid.pdb
+C:\Users\annas\source\repos\row kid\obj\Debug\row kid.csproj.AssemblyReference.cache
+C:\Users\annas\source\repos\row kid\obj\Debug\row kid.csproj.SuggestedBindingRedirects.cache
+C:\Users\annas\source\repos\row kid\obj\Debug\row_kid.Form1.resources
+C:\Users\annas\source\repos\row kid\obj\Debug\row_kid.Properties.Resources.resources
+C:\Users\annas\source\repos\row kid\obj\Debug\row kid.csproj.GenerateResource.cache
+C:\Users\annas\source\repos\row kid\obj\Debug\row kid.csproj.CoreCompileInputs.cache
+C:\Users\annas\source\repos\row kid\obj\Debug\row kid.exe
+C:\Users\annas\source\repos\row kid\obj\Debug\row kid.pdb
+C:\Users\annas\source\repos\row kid\obj\Debug\row_kid.Form2.resources
